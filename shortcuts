@@ -4,22 +4,22 @@ window=Tk()
 lbl=Label(window, text="ID:", fg='black', font=("Ariel", 12))
 lbl.place(x=200, y=100)
 
-btn=Button(window, text="Settings", fg='black')
+btn=Button(window, text="Start to Translate to Braille", fg='black')
 btn.place(x=200, y=100)
 
-btn=Button(window, text="Open Browser", fg='black')
+btn=Button(window, text="Enable Braille Display", fg='black')
 btn.place(x=200, y=200)
 
-btn=Button(window, text="Modes", fg='black')
+btn=Button(window, text="Web Page Analytics", fg='black')
 btn.place(x=200, y=300)
 
-btn=Button(window, text="Settings", fg='black')
+btn=Button(window, text="Index up", fg='black')
 btn.place(x=200, y=400)
 
-btn=Button(window, text="Open Browser", fg='black')
+btn=Button(window, text="Index Down", fg='black')
 btn.place(x=200, y=200)
 
-btn=Button(window, text="Modes", fg='black')
+btn=Button(window, text="Text to ", fg='black')
 btn.place(x=200, y=300)
 
 btn=Button(window, text="Settings", fg='black')
