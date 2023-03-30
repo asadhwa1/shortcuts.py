@@ -19,11 +19,13 @@ btn.place(x=200, y=400)
 btn=Button(window, text="Index Down", fg='black')
 btn.place(x=200, y=200)
 
-btn=Button(window, text="Text to ", fg='black')
+btn=Button(window, text="Text to Speech", fg='black')
 btn.place(x=200, y=300)
 
-btn=Button(window, text="Settings", fg='black')
+btn=Button(window, text="Quit Translation", fg='black')
 btn.place(x=200, y=400)
+
+
 
 
 window.title('Main Menu')
