@@ -10,11 +10,12 @@ btn.place(x=200, y=100)
 btn=Button(window, text="Enable Braille Display", fg='black')
 btn.place(x=200, y=200)
 
-btn=Button(window, text="Web Page Analytics", fg='black')
+btn=Button(window, text="Toggle Navigation", fg='black')
 btn.place(x=200, y=300)
+//WEB PAGE 
 
 btn=Button(window, text="Index up", fg='black')
-btn.place(x=200, y=400)
+btn.place(x=300, y=400)
 
 btn=Button(window, text="Index Down", fg='black')
 btn.place(x=200, y=200)
@@ -24,6 +25,7 @@ btn.place(x=200, y=300)
 
 btn=Button(window, text="Quit Translation", fg='black')
 btn.place(x=200, y=400)
+
 
 
 
